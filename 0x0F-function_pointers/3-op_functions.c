@@ -17,7 +17,7 @@ int op_add(int a, int b)
  * @a: the first int
  * @b: the second int
  *
- * Return: the difference
+ * Return: the diffrence
  */
 int op_sub(int a, int b)
 {
@@ -26,7 +26,7 @@ int op_sub(int a, int b)
 
 /**
  * op_div - divides two integers
- * @a: the first int
+ * @a: the first int 
  * @b: the second int
  *
  * Return: the quotient
